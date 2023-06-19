@@ -1,4 +1,0 @@
-# ninja log v5
-0	6933	1673955981855736085	/media/crazyfrogspb/astral/Repos/MultiScaleDeformableAttention/build/temp.linux-x86_64-3.9/media/crazyfrogspb/astral/Repos/MultiScaleDeformableAttention/src/cpu/ms_deform_attn_cpu.o	af121d8c700189b1
-0	16971	1673955991895691636	/media/crazyfrogspb/astral/Repos/MultiScaleDeformableAttention/build/temp.linux-x86_64-3.9/media/crazyfrogspb/astral/Repos/MultiScaleDeformableAttention/src/cuda/ms_deform_attn_cuda.o	820155e9ef32e773
-0	20319	1673955995235676945	/media/crazyfrogspb/astral/Repos/MultiScaleDeformableAttention/build/temp.linux-x86_64-3.9/media/crazyfrogspb/astral/Repos/MultiScaleDeformableAttention/src/vision.o	dfb6703f3e097fbc
